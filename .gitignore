@@ -7,3 +7,6 @@ venv/*
 
 # PyCharm IDE
 .idea
+
+# private infos
+Runner_setup.md
